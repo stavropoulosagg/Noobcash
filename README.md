@@ -1,0 +1,2 @@
+# Noobcash - A simple introduction in Blockchain
+This project was developped as part of the 9th semester course, Distributed Systems (of the National Technical University of Athens) taught by Katerina Doka (http://www.cslab.ntua.gr/~doka/) in the winter semester of 2018. At this project we implemented our own cryptocurrency using the technology of Blockchain. This project is entrirely implemented in python. We also used flask framework in order to execute the transactions between the distributed nodes.
